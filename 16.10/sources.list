@@ -1,0 +1,19 @@
+deb http://mirrors.aliyun.com/ubuntu/ yakkety main restricted
+
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-updates main restricted
+
+deb http://mirrors.aliyun.com/ubuntu/ yakkety universe
+deb-src http://mirrors.aliyun.com/ubuntu/ yakkety universe
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-updates universe
+deb-src http://mirrors.aliyun.com/ubuntu/ yakkety-updates universe
+
+deb http://mirrors.aliyun.com/ubuntu/ yakkety multiverse
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-updates multiverse
+
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-backports main restricted universe multiverse
+
+
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-security main restricted
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-security universe
+deb-src http://mirrors.aliyun.com/ubuntu/ yakkety-security universe
+deb http://mirrors.aliyun.com/ubuntu/ yakkety-security multiverse
